@@ -3,7 +3,7 @@
 <channel>
   <title>우면동 퀵서비스 | 24시 에이플러스 신속한 배송</title>
   <link>https://umyeon.8222quick.com/</link>
-  <description>서초구 우면동 삼성R&D캠퍼스 우면지구 24시 실시간 배차 시스템, 신속한 배송 원칙</description>
+  <description>서초구 우면동 삼성RD캠퍼스 우면지구 24시 실시간 배차 시스템, 신속한 배송 원칙</description>
   <language>ko-KR</language>
   <pubDate>Mon, 16 Feb 2026 11:20:00 +0900</pubDate>
   <lastBuildDate>Mon, 16 Feb 2026 11:20:00 +0900</lastBuildDate>
@@ -12,7 +12,7 @@
   <item>
     <title>우면동 퀵서비스 신속한 배송 안내</title>
     <link>https://umyeon.8222quick.com/index.html</link>
-    <description>우면동 전지역 오토바이, 다마스, 라보 퀵서비스. 삼성전자R&D 우면지구 24시 신속한 배송을 보장합니다.</description>
+    <description>우면동 전지역 오토바이, 다마스, 라보 퀵서비스. 삼성전자RD 우면지구 24시 신속한 배송을 보장합니다.</description>
     <category>퀵서비스</category>
     <pubDate>Mon, 16 Feb 2026 11:20:00 +0900</pubDate>
     <guid>https://umyeon.8222quick.com/index.html</guid>
@@ -27,4 +27,5 @@
     <guid>https://umyeon.8222quick.com/money.html</guid>
   </item>
 </channel>
+
 </rss>
